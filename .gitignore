@@ -113,6 +113,7 @@ output/
 # Documentacao gerada
 docs/_build/
 docs/build/
+docs/schemas/generated/
 site/
 
 # IDEs e editores
